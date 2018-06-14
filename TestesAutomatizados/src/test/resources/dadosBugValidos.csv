@@ -1,0 +1,8 @@
+title, id, abstrato, description, testPlan, testCase, steps, state, frequency, gravity, priority, responsible, image, resultado
+BugImagem, 01, abstract, description, TP02, TC04, steps to reproduce, new, sometimes, low, low, Jesuína Silva, image.jpg, Cadastro efetuado com sucesso 
+IMG, 02, abstract, description, TP03, TC05, steps to reproduce, duplicate, random, medium, normal, Jesuína Silva, image.png, Cadastro efetuado com sucesso
+BugI, , abstract, description, TP04, TC06, steps to reproduce, fixed, often, high, high, Jesuína Silva, , Cadastro efetuado com sucesso
+BugII, , , description, TP05, TC07, steps to reproduce, rejected, ever, critical, urgent, Jesuína Silva, image.png, Cadastro efetuado com sucesso 
+BugIII, , , , TP06, TC08, steps to reproduce, retested, often, high, immediate, Jesuína Silva, , Cadastro efetuado com sucesso
+BugIV, , , , TP07, TC09, , verified, sometimes, low, medium, Jesuína Silva, , Cadastro efetuado com sucesso
+BugV, , , , TP08, TC010, , closed, often, low, low, Jesuína Silva, , Cadastro efetuado com sucesso

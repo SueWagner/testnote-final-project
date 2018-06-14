@@ -1,0 +1,3 @@
+title, id, abstrato, description, testPlan, testCase, steps, state, frequency, gravity, priority, responsible, image, resultado
+1, 1, abstract, description, TP01, TC01, steps to reproduce, duplicated, random, medium, high, Jesuína Silva, image.png, Cadastro não efetuado
+b, , , , TP02, TC02, , retest, ever, medium, high, Jesuína Silva, image.jpg, Cadastro não efetuado

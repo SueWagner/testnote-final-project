@@ -1,0 +1,8 @@
+testCaseId, title, testPlan, responsible, description, status, importance, executionType, document, observations, action1, expectedResult1, resultado
+, Test Case 01, Test Plan 01, Jesuína Silva, description, draft, high, manual, arquivo.pdf, observations, Access the page registration through this link: http://test.com, The browser should open the main page, Cadastro não efetuado
+02, , Test Plan 01, Jesuína Silva, description, draft, high, manual, arquivo.pdf, observations, Access the page registration through this link: http://test.com, The browser should open the main page, Cadastro não efetuado
+3, Test Case 03, Test Plan 01, Jesuína Silva, description, draft, high, manual, arquivo.pdf, observations, Access the page registration through this link: http://test.com, The browser should open the main page, Cadastro não efetuado
+04, C4, Test Plan 01, Jesuína Silva, description, draft, high, manual, arquivo.pdf, observations, Access the page registration through this link: http://test.com, The browser should open the main page, Cadastro não efetuado
+05, TC5, Test Plan 05, Jesuína Silva, description, draft, high, manual, arquivo.pdf, observations, , , Cadastro não efetuado
+06, TC6, Test Plan 06, Jesuína Silva, description, draft, high, manual, arquivo.pdf, observations, Access the page registration through this link: http://test.com , , Cadastro não efetuado
+07, TC7, Test Plan 07, Jesuína Silva, description, draft, high, manual, arquivo.pdf, observations, ,The browser should open the main page, Cadastro não efetuado

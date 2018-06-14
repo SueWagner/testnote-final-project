@@ -1,0 +1,7 @@
+identifierNumber, name, startingDate, finalDate, goal, features, link, environment, equipments, observations, document, status, teamMember, resultado
+01, Test Plan 01, 05/03/2018, 12/03/2018, The system goals, The system features, http://test.com , The system environment, The system environment, The system observations, arquivo.pdf, Draft, Jesuína Silva, Cadastro efetuado com sucesso 
+02, Test Plan 02, 06/04/2018, 13/04/2018, The system goals, The system features, http://test.com , The system environment, The system environment, The system observations, arquivo.pdf, Deprecated, Jesuína Silva, Cadastro efetuado com sucesso 
+03, Test Plan 03, 07/05/2018, 14/05/2018, The system goals, The system features, http://test.com , The system environment, The system environment, The system observations, arquivo.pdf, Approved, Jesuína Silva, Cadastro efetuado com sucesso 
+04, Test Plan 04, 08/06/2018, 15/06/2018, , , , , , , , Draft, Jesuína Silva, Cadastro efetuado com sucesso
+05, Test Plan 05, 09/07/2018, 16/07/2018, , , , , , , arquivo.pdf, Draft, Jesuína Silva, Cadastro efetuado com sucesso
+006, TP6, 10/08/2018, 17/08/2018, , , , , , , , Approved, Jesuína Silva, Cadastro efetuado com sucesso 
